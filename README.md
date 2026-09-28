@@ -4,7 +4,7 @@ A Python-based Student Management System developed using Streamlit, Pandas, and 
 
 ## 🚀 Live Student Management System
 
-Open Student Management System](https://student-management-python-hvbxo j5fl8shy8g83eges.streamlit.app/)
+[Student Management System · Streamlit](https://student-management-python-hvbxoj5fl8s5hy8g83eges.streamlit.app/)
 
 ## 📌 Project Overview
 
