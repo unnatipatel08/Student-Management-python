@@ -2,6 +2,10 @@
 
 A Python-based Student Management System developed using Streamlit, Pandas, and Plotly. The application provides an interactive dashboard to manage student information, academic performance, attendance, grades, and student records.
 
+# Live Student Management System Link
+
+[https://student-management-python-hvbxoj5fl8s5hy8g83eges.streamlit.app/](url)
+
 ## 📌 Project Overview
 
 The Student Management System is designed to manage student academic and personal information through a simple and interactive web-based dashboard.
