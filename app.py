@@ -1,4 +1,3 @@
-%%writefile app.py
 
 import streamlit as st
 import pandas as pd
@@ -9,7 +8,7 @@ from datetime import date
 
 # CONFIGURATION
 
-FILE = "/content/students (1).csv"
+FILE = "students (1).csv"
 
 st.set_page_config(
     page_title="Student Management System",
