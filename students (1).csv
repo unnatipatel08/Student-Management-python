@@ -1,0 +1,301 @@
+Student_ID,Name,Email,Phone,Branch,Semester,Division,Academic_Year,Admission_Date,Attendance,Marks,Internal_Marks,External_Marks,Assignment_Score,Study_Hours,Previous_Percentage,Grade,Result,Performance_Level,Enrollment_Status
+STU2026001,Palak Prajapati,palak.prajapati001@student.edu.in,7000000001,Electrical Engineering,5,A,2025-26,2022-09-12,72,34,30,4,41,4,72,F,Fail,Low,On Leave
+STU2026002,Akshay Solanki,akshay.solanki002@student.edu.in,7000000002,Electronics & Communication,1,D,2026-27,2025-02-22,56,71,27,44,60,4,64,B+,Pass,Average,On Leave
+STU2026003,Aditi Verma,aditi.verma003@student.edu.in,7000000003,Electrical Engineering,8,C,2025-26,2023-05-19,61,86,29,57,81,2,60,A,Pass,High,Active
+STU2026004,Varun Parmar,varun.parmar004@student.edu.in,7000000004,Mechanical Engineering,5,A,2025-26,2025-11-02,92,54,25,29,63,6,94,C,Pass,Low,On Leave
+STU2026005,Palak Gupta,palak.gupta005@student.edu.in,7000000005,Information Technology,1,B,2026-27,2026-06-20,95,95,30,65,100,10,84,A+,Pass,High,Active
+STU2026006,Aditi Amin,aditi.amin006@student.edu.in,7000000006,Electronics & Communication,2,C,2026-27,2022-06-12,54,57,26,31,65,9,75,C,Pass,Low,Active
+STU2026007,Palak Soni,palak.soni007@student.edu.in,7000000007,Computer Engineering,2,B,2026-27,2026-01-26,51,52,17,35,48,3,42,C,Pass,Low,On Leave
+STU2026008,Ved Mistry,ved.mistry008@student.edu.in,7000000008,Computer Engineering,8,B,2025-26,2025-11-18,56,38,29,9,31,9,42,F,Fail,Low,Active
+STU2026009,Zara Dave,zara.dave009@student.edu.in,7000000009,Electrical Engineering,2,B,2026-27,2023-07-31,63,63,8,55,58,1,55,B,Fail,Average,On Leave
+STU2026010,Sahil Amin,sahil.amin010@student.edu.in,7000000010,Computer Engineering,5,D,2025-26,2021-08-09,88,26,12,14,17,8,85,F,Fail,Low,Active
+STU2026011,Arjun Pandya,arjun.pandya011@student.edu.in,7000000011,Civil Engineering,5,A,2025-26,2022-04-17,90,73,25,48,81,9,81,B+,Pass,Average,Active
+STU2026012,Zara Chauhan,zara.chauhan012@student.edu.in,7000000012,Mechanical Engineering,2,A,2026-27,2023-08-20,67,89,20,69,98,7,68,A,Pass,High,Active
+STU2026013,Ananya Mehta,ananya.mehta013@student.edu.in,7000000013,Civil Engineering,6,C,2025-26,2021-08-08,78,34,4,30,41,6,76,F,Fail,Low,Active
+STU2026014,Jinal Makwana,jinal.makwana014@student.edu.in,7000000014,Civil Engineering,5,A,2025-26,2024-08-09,95,74,26,48,64,8,91,B+,Pass,Average,Active
+STU2026015,Rohan Gohil,rohan.gohil015@student.edu.in,7000000015,Electronics & Communication,6,A,2025-26,2023-12-17,88,96,26,70,88,7,55,A+,Pass,High,Active
+STU2026016,Dhruv Vyas,dhruv.vyas016@student.edu.in,7000000016,Information Technology,6,B,2025-26,2021-11-18,92,68,15,53,64,3,58,B,Pass,Average,Active
+STU2026017,Meet Gohil,meet.gohil017@student.edu.in,7000000017,Computer Engineering,8,D,2025-26,2023-12-11,86,78,26,52,85,3,100,B+,Pass,Average,On Leave
+STU2026018,Harsh Soni,harsh.soni018@student.edu.in,7000000018,Electrical Engineering,4,C,2026-27,2025-05-07,57,82,24,58,86,3,98,A,Pass,High,Active
+STU2026019,Mihir Pandya,mihir.pandya019@student.edu.in,7000000019,Electrical Engineering,2,D,2026-27,2025-12-13,55,72,3,69,61,5,84,B+,Fail,Average,Active
+STU2026020,Aarav Mehta,aarav.mehta020@student.edu.in,7000000020,Mechanical Engineering,1,D,2026-27,2022-01-13,64,63,10,53,67,3,32,B,Pass,Average,Active
+STU2026021,Mahek Kapadia,mahek.kapadia021@student.edu.in,7000000021,Electrical Engineering,7,C,2025-26,2024-03-11,69,58,12,46,64,2,79,C,Pass,Low,On Leave
+STU2026022,Akshay Mehta,akshay.mehta022@student.edu.in,7000000022,Electrical Engineering,4,A,2026-27,2021-11-02,95,66,8,58,71,5,63,B,Fail,Average,On Leave
+STU2026023,Aditi Yadav,aditi.yadav023@student.edu.in,7000000023,Civil Engineering,1,B,2026-27,2025-06-10,100,88,28,60,89,9,52,A,Pass,High,Active
+STU2026024,Ved Pandya,ved.pandya024@student.edu.in,7000000024,Mechanical Engineering,4,A,2026-27,2022-10-31,79,77,15,62,89,9,69,B+,Pass,Average,Active
+STU2026025,Rahul Mehta,rahul.mehta025@student.edu.in,7000000025,Electronics & Communication,4,C,2026-27,2024-02-10,59,27,13,14,29,5,78,F,Fail,Low,Active
+STU2026026,Riya Amin,riya.amin026@student.edu.in,7000000026,Mechanical Engineering,1,D,2026-27,2025-10-05,79,35,16,19,42,10,75,F,Fail,Low,Active
+STU2026027,Neel Mistry,neel.mistry027@student.edu.in,7000000027,Civil Engineering,4,A,2026-27,2024-08-07,77,78,10,68,74,9,72,B+,Pass,Average,Active
+STU2026028,Jinal Rajput,jinal.rajput028@student.edu.in,7000000028,Mechanical Engineering,2,C,2026-27,2021-08-03,96,69,26,43,81,5,85,B,Pass,Average,Active
+STU2026029,Ved Yadav,ved.yadav029@student.edu.in,7000000029,Information Technology,6,C,2025-26,2024-09-06,97,64,4,60,71,1,56,B,Fail,Average,On Leave
+STU2026030,Pooja Dave,pooja.dave030@student.edu.in,7000000030,Electrical Engineering,1,C,2026-27,2024-08-03,61,56,3,53,64,9,92,C,Fail,Low,On Leave
+STU2026031,Vansh Pandya,vansh.pandya031@student.edu.in,7000000031,Civil Engineering,5,C,2025-26,2024-04-10,80,98,28,70,97,9,92,A+,Pass,High,Active
+STU2026032,Akshay Yadav,akshay.yadav032@student.edu.in,7000000032,Information Technology,2,A,2026-27,2024-08-02,58,59,27,32,64,4,59,C,Pass,Low,On Leave
+STU2026033,Parth Bhatt,parth.bhatt033@student.edu.in,7000000033,Civil Engineering,4,A,2026-27,2026-06-24,81,31,23,8,37,10,64,F,Fail,Low,On Leave
+STU2026034,Chirag Desai,chirag.desai034@student.edu.in,7000000034,Mechanical Engineering,3,D,2026-27,2022-02-26,90,57,28,29,65,6,43,C,Pass,Low,On Leave
+STU2026035,Dev Rajput,dev.rajput035@student.edu.in,7000000035,Electrical Engineering,8,D,2025-26,2022-05-10,82,58,9,49,48,7,96,C,Fail,Low,Active
+STU2026036,Aarav Gupta,aarav.gupta036@student.edu.in,7000000036,Electrical Engineering,3,B,2026-27,2021-09-01,92,62,13,49,71,9,34,B,Pass,Average,Active
+STU2026037,Manav Rajput,manav.rajput037@student.edu.in,7000000037,Electrical Engineering,5,A,2025-26,2023-08-04,64,68,3,65,78,8,99,B,Fail,Average,Active
+STU2026038,Parth Gupta,parth.gupta038@student.edu.in,7000000038,Information Technology,1,D,2026-27,2022-02-12,55,45,4,41,49,7,48,D,Fail,Low,Active
+STU2026039,Tanya Parmar,tanya.parmar039@student.edu.in,7000000039,Electrical Engineering,4,A,2026-27,2026-06-07,51,73,22,51,78,4,79,B+,Pass,Average,On Leave
+STU2026040,Varun Vyas,varun.vyas040@student.edu.in,7000000040,Information Technology,4,D,2026-27,2024-01-06,93,92,25,67,83,1,97,A+,Pass,High,Active
+STU2026041,Aditi Desai,aditi.desai041@student.edu.in,7000000041,Information Technology,7,D,2025-26,2023-08-02,83,78,22,56,87,1,62,B+,Pass,Average,Active
+STU2026042,Nirav Thakor,nirav.thakor042@student.edu.in,7000000042,Electrical Engineering,1,C,2026-27,2024-11-13,87,95,30,65,94,8,47,A+,Pass,High,Active
+STU2026043,Shreya Patel,shreya.patel043@student.edu.in,7000000043,Computer Engineering,4,C,2026-27,2022-05-11,99,83,23,60,80,3,69,A,Pass,High,Active
+STU2026044,Riya Patel,riya.patel044@student.edu.in,7000000044,Mechanical Engineering,6,C,2025-26,2022-03-16,69,75,23,52,77,6,52,B+,Pass,Average,On Leave
+STU2026045,Arjun Modi,arjun.modi045@student.edu.in,7000000045,Information Technology,8,C,2025-26,2023-09-26,79,42,12,30,45,2,100,D,Pass,Low,Active
+STU2026046,Mahek Mistry,mahek.mistry046@student.edu.in,7000000046,Civil Engineering,1,C,2026-27,2023-12-02,93,88,25,63,89,3,95,A,Pass,High,Active
+STU2026047,Aarav Sanghvi,aarav.sanghvi047@student.edu.in,7000000047,Mechanical Engineering,1,C,2026-27,2023-08-11,81,48,25,23,56,9,88,D,Pass,Low,Active
+STU2026048,Diya Patel,diya.patel048@student.edu.in,7000000048,Electronics & Communication,6,C,2025-26,2023-04-15,64,42,13,29,37,4,65,D,Pass,Low,Active
+STU2026049,Varun Mistry,varun.mistry049@student.edu.in,7000000049,Mechanical Engineering,4,B,2026-27,2026-01-22,55,74,23,51,77,4,72,B+,Pass,Average,Active
+STU2026050,Ananya Thakor,ananya.thakor050@student.edu.in,7000000050,Electrical Engineering,4,D,2026-27,2022-02-26,59,33,29,4,44,2,50,F,Fail,Low,Active
+STU2026051,Het Solanki,het.solanki051@student.edu.in,7000000051,Computer Engineering,4,D,2026-27,2023-09-30,70,83,24,59,77,3,95,A,Pass,High,Active
+STU2026052,Meera Gohil,meera.gohil052@student.edu.in,7000000052,Electronics & Communication,3,C,2026-27,2026-02-23,78,44,3,41,48,8,72,D,Fail,Low,Active
+STU2026053,Het Modi,het.modi053@student.edu.in,7000000053,Computer Engineering,3,C,2026-27,2022-06-14,76,95,27,68,95,3,43,A+,Pass,High,Active
+STU2026054,Mihir Soni,mihir.soni054@student.edu.in,7000000054,Electronics & Communication,5,C,2025-26,2022-10-22,89,40,15,25,37,8,61,D,Pass,Low,Active
+STU2026055,Tanya Amin,tanya.amin055@student.edu.in,7000000055,Electronics & Communication,7,D,2025-26,2026-04-07,93,73,16,57,78,3,99,B+,Pass,Average,On Leave
+STU2026056,Het Rajput,het.rajput056@student.edu.in,7000000056,Civil Engineering,5,A,2025-26,2022-05-05,100,48,1,47,52,1,86,D,Fail,Low,Active
+STU2026057,Nidhi Patel,nidhi.patel057@student.edu.in,7000000057,Computer Engineering,3,C,2026-27,2026-01-19,91,89,30,59,97,5,67,A,Pass,High,On Leave
+STU2026058,Tanya Makwana,tanya.makwana058@student.edu.in,7000000058,Mechanical Engineering,7,D,2025-26,2022-12-31,92,40,10,30,40,4,94,D,Pass,Low,On Leave
+STU2026059,Kavya Yadav,kavya.yadav059@student.edu.in,7000000059,Computer Engineering,2,B,2026-27,2023-10-02,93,78,20,58,76,7,66,B+,Pass,Average,Active
+STU2026060,Palak Thakor,palak.thakor060@student.edu.in,7000000060,Civil Engineering,1,D,2026-27,2026-03-25,67,37,27,10,30,9,50,F,Fail,Low,Active
+STU2026061,Vansh Gandhi,vansh.gandhi061@student.edu.in,7000000061,Civil Engineering,7,C,2025-26,2024-08-06,99,81,21,60,78,4,50,A,Pass,High,On Leave
+STU2026062,Khushi Solanki,khushi.solanki062@student.edu.in,7000000062,Information Technology,5,D,2025-26,2025-05-08,92,21,3,18,21,9,86,F,Fail,Low,Active
+STU2026063,Shivam Trivedi,shivam.trivedi063@student.edu.in,7000000063,Civil Engineering,7,B,2025-26,2025-10-05,58,49,23,26,45,5,75,D,Pass,Low,Active
+STU2026064,Nirav Yadav,nirav.yadav064@student.edu.in,7000000064,Civil Engineering,4,C,2026-27,2026-01-31,79,98,29,69,100,2,62,A+,Pass,High,Active
+STU2026065,Krisha Gupta,krisha.gupta065@student.edu.in,7000000065,Mechanical Engineering,6,B,2025-26,2025-10-04,98,96,30,66,91,6,84,A+,Pass,High,Active
+STU2026066,Ananya Bhatt,ananya.bhatt066@student.edu.in,7000000066,Information Technology,3,D,2026-27,2025-05-19,91,94,28,66,99,5,31,A+,Pass,High,Active
+STU2026067,Shreya Modi,shreya.modi067@student.edu.in,7000000067,Electronics & Communication,1,C,2026-27,2025-04-27,71,21,10,11,13,8,61,F,Fail,Low,Active
+STU2026068,Meera Parmar,meera.parmar068@student.edu.in,7000000068,Computer Engineering,8,B,2025-26,2024-02-17,69,81,12,69,77,9,51,A,Pass,High,On Leave
+STU2026069,Manav Verma,manav.verma069@student.edu.in,7000000069,Information Technology,1,C,2026-27,2022-06-08,59,60,25,35,48,8,67,B,Pass,Average,Active
+STU2026070,Tanya Desai,tanya.desai070@student.edu.in,7000000070,Computer Engineering,6,B,2025-26,2022-10-01,57,55,4,51,47,3,38,C,Fail,Low,On Leave
+STU2026071,Ananya Parmar,ananya.parmar071@student.edu.in,7000000071,Electrical Engineering,5,C,2025-26,2024-04-29,82,51,10,41,60,3,38,C,Pass,Low,Active
+STU2026072,Riya Gupta,riya.gupta072@student.edu.in,7000000072,Civil Engineering,6,A,2025-26,2021-11-07,51,53,9,44,64,2,63,C,Fail,Low,Active
+STU2026073,Sahil Pandya,sahil.pandya073@student.edu.in,7000000073,Mechanical Engineering,2,B,2026-27,2024-11-03,81,65,13,52,75,8,70,B,Pass,Average,On Leave
+STU2026074,Dhruv Gupta,dhruv.gupta074@student.edu.in,7000000074,Mechanical Engineering,6,B,2025-26,2025-11-02,83,66,25,41,77,5,41,B,Pass,Average,Active
+STU2026075,Neel Parmar,neel.parmar075@student.edu.in,7000000075,Electrical Engineering,7,A,2025-26,2022-10-07,67,60,2,58,64,5,57,B,Fail,Average,On Leave
+STU2026076,Tanya Solanki,tanya.solanki076@student.edu.in,7000000076,Civil Engineering,5,B,2025-26,2023-06-20,54,48,5,43,58,8,48,D,Fail,Low,Active
+STU2026077,Meet Desai,meet.desai077@student.edu.in,7000000077,Civil Engineering,6,B,2025-26,2021-07-08,64,58,29,29,60,2,93,C,Pass,Low,Active
+STU2026078,Nirav Gohil,nirav.gohil078@student.edu.in,7000000078,Civil Engineering,7,C,2025-26,2023-06-14,62,89,25,64,77,1,33,A,Pass,High,Active
+STU2026079,Krisha Shah,krisha.shah079@student.edu.in,7000000079,Civil Engineering,4,A,2026-27,2026-01-18,62,97,29,68,93,6,72,A+,Pass,High,Active
+STU2026080,Zara Pandya,zara.pandya080@student.edu.in,7000000080,Electronics & Communication,4,B,2026-27,2022-08-05,71,76,21,55,88,5,93,B+,Pass,Average,On Leave
+STU2026081,Meera Thakor,meera.thakor081@student.edu.in,7000000081,Mechanical Engineering,4,A,2026-27,2024-10-29,85,29,24,5,27,4,79,F,Fail,Low,Active
+STU2026082,Mihir Modi,mihir.modi082@student.edu.in,7000000082,Mechanical Engineering,4,C,2026-27,2023-09-08,60,59,8,51,51,8,75,C,Fail,Low,On Leave
+STU2026083,Akshay Sharma,akshay.sharma083@student.edu.in,7000000083,Civil Engineering,1,B,2026-27,2022-09-30,85,69,0,69,58,5,73,B,Fail,Average,Active
+STU2026084,Nirav Desai,nirav.desai084@student.edu.in,7000000084,Information Technology,3,C,2026-27,2023-03-22,79,54,25,29,58,9,49,C,Pass,Low,Active
+STU2026085,Parth Rajput,parth.rajput085@student.edu.in,7000000085,Mechanical Engineering,4,C,2026-27,2024-12-21,74,47,9,38,37,7,39,D,Fail,Low,Active
+STU2026086,Moksh Gohil,moksh.gohil086@student.edu.in,7000000086,Computer Engineering,6,D,2025-26,2025-09-12,71,68,7,61,61,9,61,B,Fail,Average,Active
+STU2026087,Parth Parmar,parth.parmar087@student.edu.in,7000000087,Computer Engineering,2,A,2026-27,2021-12-01,95,57,8,49,49,10,54,C,Fail,Low,Active
+STU2026088,Nirav Chauhan,nirav.chauhan088@student.edu.in,7000000088,Information Technology,5,A,2025-26,2024-05-14,76,91,28,63,84,3,52,A+,Pass,High,Active
+STU2026089,Dev Sanghvi,dev.sanghvi089@student.edu.in,7000000089,Civil Engineering,1,D,2026-27,2024-09-09,53,94,29,65,100,6,30,A+,Pass,High,Active
+STU2026090,Ved Amin,ved.amin090@student.edu.in,7000000090,Information Technology,3,B,2026-27,2022-09-08,100,77,26,51,86,4,74,B+,Pass,Average,Active
+STU2026091,Sahil Mistry,sahil.mistry091@student.edu.in,7000000091,Information Technology,6,D,2025-26,2025-07-31,97,70,18,52,58,4,64,B+,Pass,Average,Active
+STU2026092,Simran Chauhan,simran.chauhan092@student.edu.in,7000000092,Electronics & Communication,5,A,2025-26,2023-11-20,54,45,6,39,41,8,96,D,Fail,Low,Active
+STU2026093,Aditi Solanki,aditi.solanki093@student.edu.in,7000000093,Information Technology,6,B,2025-26,2022-10-05,73,75,15,60,82,1,84,B+,Pass,Average,On Leave
+STU2026094,Neel Dave,neel.dave094@student.edu.in,7000000094,Electrical Engineering,6,B,2025-26,2025-09-23,81,62,0,62,63,5,41,B,Fail,Average,Active
+STU2026095,Tanya Dave,tanya.dave095@student.edu.in,7000000095,Computer Engineering,3,A,2026-27,2024-05-06,67,48,25,23,39,10,48,D,Pass,Low,On Leave
+STU2026096,Moksh Kapadia,moksh.kapadia096@student.edu.in,7000000096,Computer Engineering,1,D,2026-27,2022-10-05,60,89,26,63,98,5,42,A,Pass,High,Active
+STU2026097,Akshay Chauhan,akshay.chauhan097@student.edu.in,7000000097,Civil Engineering,3,B,2026-27,2026-05-13,70,88,29,59,76,1,61,A,Pass,High,Active
+STU2026098,Manav Yadav,manav.yadav098@student.edu.in,7000000098,Electrical Engineering,7,C,2025-26,2021-08-01,80,86,26,60,92,3,70,A,Pass,High,On Leave
+STU2026099,Jinal Shah,jinal.shah099@student.edu.in,7000000099,Electronics & Communication,6,A,2025-26,2023-11-23,64,20,3,17,17,8,31,F,Fail,Low,Active
+STU2026100,Mihir Gandhi,mihir.gandhi100@student.edu.in,7000000100,Mechanical Engineering,3,C,2026-27,2022-09-28,75,47,9,38,57,1,80,D,Fail,Low,Active
+STU2026101,Nirav Mistry,nirav.mistry101@student.edu.in,7000000101,Mechanical Engineering,2,D,2026-27,2026-04-23,59,90,20,70,97,3,59,A+,Pass,High,On Leave
+STU2026102,Mihir Joshi,mihir.joshi102@student.edu.in,7000000102,Mechanical Engineering,3,A,2026-27,2023-10-29,85,80,11,69,91,10,38,A,Pass,High,Active
+STU2026103,Parth Yadav,parth.yadav103@student.edu.in,7000000103,Information Technology,4,B,2026-27,2024-11-02,99,65,3,62,59,6,52,B,Fail,Average,Active
+STU2026104,Ved Verma,ved.verma104@student.edu.in,7000000104,Mechanical Engineering,5,B,2025-26,2023-06-04,88,89,30,59,93,2,30,A,Pass,High,Active
+STU2026105,Simran Soni,simran.soni105@student.edu.in,7000000105,Computer Engineering,7,C,2025-26,2024-06-25,85,74,29,45,86,4,46,B+,Pass,Average,On Leave
+STU2026106,Chirag Soni,chirag.soni106@student.edu.in,7000000106,Electrical Engineering,5,A,2025-26,2022-12-20,96,49,20,29,58,8,70,D,Pass,Low,Active
+STU2026107,Harsh Sharma,harsh.sharma107@student.edu.in,7000000107,Electrical Engineering,1,A,2026-27,2025-09-12,56,24,19,5,15,7,39,F,Fail,Low,Active
+STU2026108,Parth Rathod,parth.rathod108@student.edu.in,7000000108,Mechanical Engineering,6,B,2025-26,2026-06-17,100,68,9,59,60,10,61,B,Fail,Average,Active
+STU2026109,Meet Parmar,meet.parmar109@student.edu.in,7000000109,Mechanical Engineering,3,A,2026-27,2022-02-24,90,41,19,22,47,9,100,D,Fail,Low,Active
+STU2026110,Palak Shah,palak.shah110@student.edu.in,7000000110,Mechanical Engineering,4,B,2026-27,2024-08-04,60,51,9,42,54,8,43,C,Fail,Low,Active
+STU2026111,Nidhi Kapadia,nidhi.kapadia111@student.edu.in,7000000111,Computer Engineering,4,D,2026-27,2022-02-14,94,81,26,55,86,6,69,A,Pass,High,Active
+STU2026112,Simran Mistry,simran.mistry112@student.edu.in,7000000112,Mechanical Engineering,7,A,2025-26,2025-12-09,95,47,12,35,47,5,66,D,Pass,Low,Active
+STU2026113,Bhavya Mehta,bhavya.mehta113@student.edu.in,7000000113,Information Technology,8,A,2025-26,2024-03-17,58,64,30,34,62,4,90,B,Pass,Average,On Leave
+STU2026114,Shivam Prajapati,shivam.prajapati114@student.edu.in,7000000114,Mechanical Engineering,1,B,2026-27,2022-08-15,51,63,4,59,57,1,80,B,Fail,Average,Active
+STU2026115,Yash Sanghvi,yash.sanghvi115@student.edu.in,7000000115,Mechanical Engineering,7,A,2025-26,2025-05-03,50,98,30,68,91,5,51,A+,Pass,High,Active
+STU2026116,Het Mistry,het.mistry116@student.edu.in,7000000116,Electrical Engineering,8,C,2025-26,2023-06-13,78,45,3,42,48,7,57,D,Fail,Low,On Leave
+STU2026117,Shreya Soni,shreya.soni117@student.edu.in,7000000117,Electronics & Communication,8,D,2025-26,2026-01-15,61,70,2,68,66,4,86,B+,Fail,Average,Active
+STU2026118,Dev Mistry,dev.mistry118@student.edu.in,7000000118,Civil Engineering,4,B,2026-27,2022-04-10,66,58,10,48,55,8,96,C,Pass,Low,Active
+STU2026119,Krisha Yadav,krisha.yadav119@student.edu.in,7000000119,Electronics & Communication,7,D,2025-26,2026-01-16,88,56,26,30,47,7,83,C,Pass,Low,Active
+STU2026120,Arjun Sharma,arjun.sharma120@student.edu.in,7000000120,Electrical Engineering,8,C,2025-26,2021-09-03,57,98,29,69,87,7,91,A+,Pass,High,On Leave
+STU2026121,Palak Amin,palak.amin121@student.edu.in,7000000121,Civil Engineering,1,D,2026-27,2023-05-09,97,47,8,39,44,3,85,D,Fail,Low,On Leave
+STU2026122,Moksh Patel,moksh.patel122@student.edu.in,7000000122,Civil Engineering,1,A,2026-27,2024-05-20,53,93,28,65,97,9,73,A+,Pass,High,Active
+STU2026123,Shivam Joshi,shivam.joshi123@student.edu.in,7000000123,Mechanical Engineering,5,A,2025-26,2025-06-13,98,60,22,38,57,3,36,B,Pass,Average,Active
+STU2026124,Nandini Kapadia,nandini.kapadia124@student.edu.in,7000000124,Mechanical Engineering,4,A,2026-27,2023-10-21,100,91,25,66,100,10,100,A+,Pass,High,Active
+STU2026125,Nandini Modi,nandini.modi125@student.edu.in,7000000125,Information Technology,3,B,2026-27,2024-05-27,79,42,8,34,53,6,83,D,Fail,Low,Active
+STU2026126,Rohan Thakor,rohan.thakor126@student.edu.in,7000000126,Civil Engineering,6,C,2025-26,2026-01-05,87,42,23,19,45,5,74,D,Fail,Low,Active
+STU2026127,Rahul Gohil,rahul.gohil127@student.edu.in,7000000127,Mechanical Engineering,1,B,2026-27,2024-07-19,58,62,8,54,66,4,67,B,Fail,Average,Active
+STU2026128,Meera Solanki,meera.solanki128@student.edu.in,7000000128,Computer Engineering,3,A,2026-27,2024-03-13,87,88,23,65,76,10,48,A,Pass,High,On Leave
+STU2026129,Tanvi Rajput,tanvi.rajput129@student.edu.in,7000000129,Mechanical Engineering,5,C,2025-26,2023-06-27,68,34,10,24,26,2,64,F,Fail,Low,Active
+STU2026130,Rudra Bhatt,rudra.bhatt130@student.edu.in,7000000130,Information Technology,4,C,2026-27,2022-04-23,61,28,10,18,33,6,92,F,Fail,Low,Active
+STU2026131,Shreya Shah,shreya.shah131@student.edu.in,7000000131,Information Technology,5,A,2025-26,2024-04-08,99,70,6,64,75,6,52,B+,Fail,Average,Active
+STU2026132,Manav Thakor,manav.thakor132@student.edu.in,7000000132,Electrical Engineering,6,A,2025-26,2025-07-30,78,24,19,5,12,10,66,F,Fail,Low,Active
+STU2026133,Palak Modi,palak.modi133@student.edu.in,7000000133,Electronics & Communication,1,C,2026-27,2021-11-10,61,81,13,68,76,3,32,A,Pass,High,Active
+STU2026134,Rahul Soni,rahul.soni134@student.edu.in,7000000134,Electrical Engineering,4,D,2026-27,2023-08-30,90,81,24,57,91,7,33,A,Pass,High,Active
+STU2026135,Palak Mistry,palak.mistry135@student.edu.in,7000000135,Information Technology,5,C,2025-26,2025-09-30,79,56,26,30,48,7,39,C,Pass,Low,Active
+STU2026136,Nandini Gupta,nandini.gupta136@student.edu.in,7000000136,Electrical Engineering,6,B,2025-26,2024-01-27,72,84,26,58,83,2,86,A,Pass,High,On Leave
+STU2026137,Shreya Mistry,shreya.mistry137@student.edu.in,7000000137,Electronics & Communication,2,C,2026-27,2021-08-31,71,73,28,45,76,1,71,B+,Pass,Average,On Leave
+STU2026138,Diya Bhatt,diya.bhatt138@student.edu.in,7000000138,Electronics & Communication,7,D,2025-26,2026-06-04,59,23,3,20,29,8,72,F,Fail,Low,Active
+STU2026139,Aarav Desai,aarav.desai139@student.edu.in,7000000139,Mechanical Engineering,3,D,2026-27,2022-02-20,77,39,27,12,29,9,39,F,Fail,Low,Active
+STU2026140,Mahek Patel,mahek.patel140@student.edu.in,7000000140,Electrical Engineering,6,A,2025-26,2025-07-20,51,72,20,52,73,3,37,B+,Pass,Average,Active
+STU2026141,Kavya Solanki,kavya.solanki141@student.edu.in,7000000141,Electrical Engineering,5,C,2025-26,2022-05-12,68,53,18,35,58,8,45,C,Pass,Low,Active
+STU2026142,Dev Gupta,dev.gupta142@student.edu.in,7000000142,Civil Engineering,3,A,2026-27,2023-04-01,62,74,8,66,68,7,48,B+,Fail,Average,Active
+STU2026143,Akshay Patel,akshay.patel143@student.edu.in,7000000143,Mechanical Engineering,8,D,2025-26,2025-02-17,82,67,15,52,62,7,75,B,Pass,Average,Active
+STU2026144,Rohan Makwana,rohan.makwana144@student.edu.in,7000000144,Mechanical Engineering,2,C,2026-27,2026-06-10,98,78,9,69,74,5,95,B+,Fail,Average,Active
+STU2026145,Vraj Gandhi,vraj.gandhi145@student.edu.in,7000000145,Information Technology,4,C,2026-27,2025-05-07,59,74,14,60,79,10,45,B+,Pass,Average,Active
+STU2026146,Pooja Pandya,pooja.pandya146@student.edu.in,7000000146,Computer Engineering,8,A,2025-26,2026-01-09,97,72,9,63,83,7,80,B+,Fail,Average,Active
+STU2026147,Moksh Verma,moksh.verma147@student.edu.in,7000000147,Electrical Engineering,8,D,2025-26,2023-03-20,55,43,15,28,37,6,97,D,Pass,Low,Active
+STU2026148,Manav Vyas,manav.vyas148@student.edu.in,7000000148,Mechanical Engineering,2,C,2026-27,2022-04-14,66,52,0,52,62,5,44,C,Fail,Low,Active
+STU2026149,Meera Prajapati,meera.prajapati149@student.edu.in,7000000149,Computer Engineering,6,B,2025-26,2026-02-11,65,55,17,38,51,10,64,C,Pass,Low,Active
+STU2026150,Ananya Sanghvi,ananya.sanghvi150@student.edu.in,7000000150,Electrical Engineering,6,A,2025-26,2025-04-07,58,77,29,48,85,2,37,B+,Pass,Average,Active
+STU2026151,Het Makwana,het.makwana151@student.edu.in,7000000151,Civil Engineering,4,D,2026-27,2025-01-21,92,63,30,33,64,6,68,B,Pass,Average,Active
+STU2026152,Tanya Trivedi,tanya.trivedi152@student.edu.in,7000000152,Information Technology,2,D,2026-27,2025-01-05,65,72,13,59,81,3,40,B+,Pass,Average,On Leave
+STU2026153,Nidhi Gupta,nidhi.gupta153@student.edu.in,7000000153,Computer Engineering,1,B,2026-27,2023-03-17,53,73,18,55,72,1,40,B+,Pass,Average,Active
+STU2026154,Rohan Desai,rohan.desai154@student.edu.in,7000000154,Information Technology,6,D,2025-26,2023-11-29,70,69,5,64,63,9,80,B,Fail,Average,On Leave
+STU2026155,Riya Shah,riya.shah155@student.edu.in,7000000155,Electronics & Communication,8,B,2025-26,2023-06-05,93,46,2,44,58,9,38,D,Fail,Low,Active
+STU2026156,Arjun Parmar,arjun.parmar156@student.edu.in,7000000156,Civil Engineering,6,B,2025-26,2026-01-05,98,69,23,46,65,1,80,B,Pass,Average,Active
+STU2026157,Shivam Desai,shivam.desai157@student.edu.in,7000000157,Information Technology,5,D,2025-26,2024-05-01,70,73,13,60,63,7,94,B+,Pass,Average,On Leave
+STU2026158,Tanvi Vyas,tanvi.vyas158@student.edu.in,7000000158,Civil Engineering,4,A,2026-27,2026-02-18,55,91,30,61,86,5,36,A+,Pass,High,Active
+STU2026159,Zara Gupta,zara.gupta159@student.edu.in,7000000159,Computer Engineering,4,D,2026-27,2023-11-04,79,46,17,29,52,2,90,D,Pass,Low,Active
+STU2026160,Diya Joshi,diya.joshi160@student.edu.in,7000000160,Information Technology,8,B,2025-26,2022-12-23,94,52,2,50,40,10,87,C,Fail,Low,On Leave
+STU2026161,Parth Solanki,parth.solanki161@student.edu.in,7000000161,Civil Engineering,5,A,2025-26,2025-05-19,80,56,3,53,62,3,56,C,Fail,Low,Active
+STU2026162,Shreya Gupta,shreya.gupta162@student.edu.in,7000000162,Mechanical Engineering,5,C,2025-26,2023-12-16,60,80,17,63,84,9,45,A,Pass,High,On Leave
+STU2026163,Pooja Rathod,pooja.rathod163@student.edu.in,7000000163,Information Technology,2,C,2026-27,2023-01-25,88,43,17,26,39,9,43,D,Pass,Low,Active
+STU2026164,Moksh Sanghvi,moksh.sanghvi164@student.edu.in,7000000164,Civil Engineering,3,C,2026-27,2025-08-19,80,49,6,43,38,1,42,D,Fail,Low,Active
+STU2026165,Shreya Makwana,shreya.makwana165@student.edu.in,7000000165,Civil Engineering,6,D,2025-26,2024-03-17,85,53,17,36,58,10,74,C,Pass,Low,On Leave
+STU2026166,Varun Gohil,varun.gohil166@student.edu.in,7000000166,Electronics & Communication,6,D,2025-26,2025-03-11,77,93,24,69,88,10,67,A+,Pass,High,Active
+STU2026167,Aditi Rathod,aditi.rathod167@student.edu.in,7000000167,Electrical Engineering,8,C,2025-26,2022-10-31,94,67,4,63,57,6,38,B,Fail,Average,Active
+STU2026168,Moksh Solanki,moksh.solanki168@student.edu.in,7000000168,Civil Engineering,6,A,2025-26,2024-08-29,50,71,11,60,61,8,46,B+,Pass,Average,Active
+STU2026169,Chirag Vyas,chirag.vyas169@student.edu.in,7000000169,Electronics & Communication,5,B,2025-26,2023-01-28,64,64,12,52,55,1,54,B,Pass,Average,Active
+STU2026170,Karan Modi,karan.modi170@student.edu.in,7000000170,Computer Engineering,8,D,2025-26,2023-07-28,82,78,18,60,88,1,66,B+,Pass,Average,Active
+STU2026171,Palak Rajput,palak.rajput171@student.edu.in,7000000171,Mechanical Engineering,5,D,2025-26,2023-10-29,69,67,28,39,68,2,65,B,Pass,Average,Active
+STU2026172,Chirag Kapadia,chirag.kapadia172@student.edu.in,7000000172,Electrical Engineering,4,D,2026-27,2021-12-04,91,93,26,67,86,2,64,A+,Pass,High,Active
+STU2026173,Simran Gohil,simran.gohil173@student.edu.in,7000000173,Mechanical Engineering,1,C,2026-27,2021-07-09,81,69,19,50,60,3,33,B,Pass,Average,On Leave
+STU2026174,Kavya Gohil,kavya.gohil174@student.edu.in,7000000174,Mechanical Engineering,3,B,2026-27,2024-05-17,69,58,3,55,55,2,44,C,Fail,Low,Active
+STU2026175,Varun Trivedi,varun.trivedi175@student.edu.in,7000000175,Mechanical Engineering,1,B,2026-27,2021-10-16,63,84,17,67,74,1,63,A,Pass,High,Active
+STU2026176,Krisha Soni,krisha.soni176@student.edu.in,7000000176,Information Technology,3,C,2026-27,2022-11-29,64,83,28,55,81,5,41,A,Pass,High,Active
+STU2026177,Pooja Kapadia,pooja.kapadia177@student.edu.in,7000000177,Computer Engineering,6,B,2025-26,2022-01-14,92,84,29,55,75,10,87,A,Pass,High,Active
+STU2026178,Karan Gandhi,karan.gandhi178@student.edu.in,7000000178,Mechanical Engineering,2,C,2026-27,2024-04-05,51,88,24,64,95,3,64,A,Pass,High,Active
+STU2026179,Manav Mehta,manav.mehta179@student.edu.in,7000000179,Information Technology,5,C,2025-26,2023-04-23,92,95,25,70,92,4,49,A+,Pass,High,Active
+STU2026180,Shreya Parmar,shreya.parmar180@student.edu.in,7000000180,Electrical Engineering,2,C,2026-27,2023-02-27,75,67,17,50,66,6,52,B,Pass,Average,Active
+STU2026181,Dhruv Solanki,dhruv.solanki181@student.edu.in,7000000181,Electronics & Communication,6,B,2025-26,2021-07-29,51,72,7,65,60,2,74,B+,Fail,Average,Active
+STU2026182,Bhavya Soni,bhavya.soni182@student.edu.in,7000000182,Electronics & Communication,5,D,2025-26,2022-12-20,50,91,23,68,94,2,70,A+,Pass,High,Active
+STU2026183,Aditi Joshi,aditi.joshi183@student.edu.in,7000000183,Information Technology,7,D,2025-26,2025-10-14,78,72,6,66,76,10,31,B+,Fail,Average,On Leave
+STU2026184,Tanvi Chauhan,tanvi.chauhan184@student.edu.in,7000000184,Information Technology,3,B,2026-27,2022-12-24,66,87,22,65,82,1,51,A,Pass,High,Active
+STU2026185,Khushi Gohil,khushi.gohil185@student.edu.in,7000000185,Computer Engineering,6,A,2025-26,2024-03-06,68,97,30,67,91,10,90,A+,Pass,High,Active
+STU2026186,Riya Thakor,riya.thakor186@student.edu.in,7000000186,Electronics & Communication,7,C,2025-26,2023-10-03,99,73,8,65,74,9,88,B+,Fail,Average,Active
+STU2026187,Akshay Rajput,akshay.rajput187@student.edu.in,7000000187,Information Technology,3,D,2026-27,2025-11-07,67,57,22,35,69,10,39,C,Pass,Low,Active
+STU2026188,Parth Trivedi,parth.trivedi188@student.edu.in,7000000188,Electronics & Communication,4,D,2026-27,2025-11-19,93,51,19,32,52,4,36,C,Pass,Low,Active
+STU2026189,Bhavya Patel,bhavya.patel189@student.edu.in,7000000189,Computer Engineering,3,B,2026-27,2025-05-19,99,83,27,56,73,6,31,A,Pass,High,On Leave
+STU2026190,Tanya Kapadia,tanya.kapadia190@student.edu.in,7000000190,Computer Engineering,8,C,2025-26,2025-07-28,83,75,8,67,85,1,91,B+,Fail,Average,Active
+STU2026191,Simran Verma,simran.verma191@student.edu.in,7000000191,Electrical Engineering,1,B,2026-27,2025-06-29,69,48,4,44,52,8,78,D,Fail,Low,Active
+STU2026192,Krisha Chauhan,krisha.chauhan192@student.edu.in,7000000192,Civil Engineering,1,A,2026-27,2023-10-18,80,84,29,55,84,6,47,A,Pass,High,Active
+STU2026193,Vraj Trivedi,vraj.trivedi193@student.edu.in,7000000193,Mechanical Engineering,7,C,2025-26,2023-10-31,76,86,30,56,82,5,56,A,Pass,High,Active
+STU2026194,Zara Soni,zara.soni194@student.edu.in,7000000194,Electrical Engineering,3,B,2026-27,2022-03-24,85,60,11,49,64,7,51,B,Pass,Average,Active
+STU2026195,Rohan Vyas,rohan.vyas195@student.edu.in,7000000195,Civil Engineering,3,B,2026-27,2024-09-23,100,60,7,53,69,10,47,B,Fail,Average,Active
+STU2026196,Bhavya Modi,bhavya.modi196@student.edu.in,7000000196,Electronics & Communication,1,D,2026-27,2022-03-07,99,46,30,16,48,8,75,D,Fail,Low,Active
+STU2026197,Rudra Desai,rudra.desai197@student.edu.in,7000000197,Electrical Engineering,7,A,2025-26,2025-12-01,66,93,23,70,82,3,64,A+,Pass,High,Active
+STU2026198,Krisha Sharma,krisha.sharma198@student.edu.in,7000000198,Information Technology,4,C,2026-27,2021-07-03,72,83,25,58,93,7,62,A,Pass,High,Active
+STU2026199,Akshay Thakor,akshay.thakor199@student.edu.in,7000000199,Information Technology,8,C,2025-26,2024-10-10,74,21,0,21,15,4,46,F,Fail,Low,Active
+STU2026200,Kavya Rajput,kavya.rajput200@student.edu.in,7000000200,Mechanical Engineering,2,B,2026-27,2024-11-29,78,45,9,36,36,10,42,D,Fail,Low,Active
+STU2026201,Nidhi Rathod,nidhi.rathod201@student.edu.in,7000000201,Electronics & Communication,2,A,2026-27,2023-11-14,90,30,17,13,42,6,61,F,Fail,Low,Active
+STU2026202,Simran Thakor,simran.thakor202@student.edu.in,7000000202,Electrical Engineering,2,C,2026-27,2022-01-29,78,28,19,9,23,10,84,F,Fail,Low,Active
+STU2026203,Jinal Pandya,jinal.pandya203@student.edu.in,7000000203,Electrical Engineering,4,D,2026-27,2023-01-07,82,65,20,45,53,9,75,B,Pass,Average,Active
+STU2026204,Varun Bhatt,varun.bhatt204@student.edu.in,7000000204,Electronics & Communication,7,C,2025-26,2026-06-06,73,67,22,45,58,8,72,B,Pass,Average,Active
+STU2026205,Simran Sanghvi,simran.sanghvi205@student.edu.in,7000000205,Information Technology,2,B,2026-27,2023-05-30,90,73,7,66,64,1,62,B+,Fail,Average,On Leave
+STU2026206,Tanya Gandhi,tanya.gandhi206@student.edu.in,7000000206,Mechanical Engineering,7,C,2025-26,2025-01-03,98,62,1,61,60,10,91,B,Fail,Average,Active
+STU2026207,Rohan Mistry,rohan.mistry207@student.edu.in,7000000207,Electronics & Communication,2,D,2026-27,2021-11-18,91,75,6,69,76,9,33,B+,Fail,Average,On Leave
+STU2026208,Riya Verma,riya.verma208@student.edu.in,7000000208,Information Technology,1,D,2026-27,2024-09-29,78,58,5,53,69,7,32,C,Fail,Low,Active
+STU2026209,Khushi Shah,khushi.shah209@student.edu.in,7000000209,Electronics & Communication,1,C,2026-27,2024-04-16,86,66,20,46,56,8,46,B,Pass,Average,Active
+STU2026210,Simran Kapadia,simran.kapadia210@student.edu.in,7000000210,Civil Engineering,4,D,2026-27,2025-09-11,89,33,11,22,22,6,80,F,Fail,Low,Active
+STU2026211,Palak Makwana,palak.makwana211@student.edu.in,7000000211,Electrical Engineering,1,C,2026-27,2022-08-23,91,67,29,38,78,5,80,B,Pass,Average,Active
+STU2026212,Yash Trivedi,yash.trivedi212@student.edu.in,7000000212,Information Technology,6,D,2025-26,2025-10-08,79,55,17,38,62,2,54,C,Pass,Low,Active
+STU2026213,Diya Sharma,diya.sharma213@student.edu.in,7000000213,Computer Engineering,8,D,2025-26,2022-09-22,79,34,27,7,23,7,32,F,Fail,Low,On Leave
+STU2026214,Moksh Sharma,moksh.sharma214@student.edu.in,7000000214,Civil Engineering,5,D,2025-26,2025-10-26,88,73,16,57,71,7,44,B+,Pass,Average,Active
+STU2026215,Rudra Trivedi,rudra.trivedi215@student.edu.in,7000000215,Computer Engineering,5,A,2025-26,2026-05-14,61,55,3,52,46,4,46,C,Fail,Low,Active
+STU2026216,Riya Vyas,riya.vyas216@student.edu.in,7000000216,Computer Engineering,8,C,2025-26,2022-11-08,67,75,26,49,77,2,40,B+,Pass,Average,Active
+STU2026217,Mihir Mehta,mihir.mehta217@student.edu.in,7000000217,Civil Engineering,2,D,2026-27,2023-04-29,59,60,24,36,66,6,50,B,Pass,Average,On Leave
+STU2026218,Sahil Chauhan,sahil.chauhan218@student.edu.in,7000000218,Electronics & Communication,5,B,2025-26,2023-01-28,86,72,14,58,74,6,47,B+,Pass,Average,Active
+STU2026219,Dev Dave,dev.dave219@student.edu.in,7000000219,Civil Engineering,8,D,2025-26,2022-01-08,90,96,26,70,85,7,74,A+,Pass,High,Active
+STU2026220,Yash Sharma,yash.sharma220@student.edu.in,7000000220,Information Technology,1,C,2026-27,2024-02-10,92,83,23,60,81,9,74,A,Pass,High,Active
+STU2026221,Meera Joshi,meera.joshi221@student.edu.in,7000000221,Mechanical Engineering,4,B,2026-27,2023-10-08,100,93,23,70,100,7,42,A+,Pass,High,Active
+STU2026222,Isha Sharma,isha.sharma222@student.edu.in,7000000222,Electrical Engineering,6,B,2025-26,2025-02-06,63,54,25,29,52,6,33,C,Pass,Low,Active
+STU2026223,Pooja Gohil,pooja.gohil223@student.edu.in,7000000223,Computer Engineering,5,B,2025-26,2023-10-04,84,77,10,67,80,10,33,B+,Pass,Average,Active
+STU2026224,Sakshi Gupta,sakshi.gupta224@student.edu.in,7000000224,Electrical Engineering,7,C,2025-26,2025-12-19,90,68,8,60,75,2,67,B,Fail,Average,On Leave
+STU2026225,Palak Verma,palak.verma225@student.edu.in,7000000225,Computer Engineering,1,D,2026-27,2022-09-27,65,38,3,35,38,6,50,F,Fail,Low,Active
+STU2026226,Diya Gandhi,diya.gandhi226@student.edu.in,7000000226,Information Technology,4,A,2026-27,2022-07-25,72,92,27,65,100,4,64,A+,Pass,High,On Leave
+STU2026227,Riya Modi,riya.modi227@student.edu.in,7000000227,Electronics & Communication,7,D,2025-26,2022-09-27,62,71,19,52,76,7,82,B+,Pass,Average,Active
+STU2026228,Tanvi Thakor,tanvi.thakor228@student.edu.in,7000000228,Civil Engineering,6,A,2025-26,2021-10-25,56,59,26,33,53,10,34,C,Pass,Low,Active
+STU2026229,Vansh Sharma,vansh.sharma229@student.edu.in,7000000229,Electronics & Communication,3,C,2026-27,2022-03-26,67,64,24,40,76,5,41,B,Pass,Average,Active
+STU2026230,Kavya Mistry,kavya.mistry230@student.edu.in,7000000230,Electronics & Communication,8,C,2025-26,2025-01-23,98,84,28,56,84,10,69,A,Pass,High,Active
+STU2026231,Dhruv Amin,dhruv.amin231@student.edu.in,7000000231,Mechanical Engineering,2,B,2026-27,2023-01-19,64,63,13,50,75,7,47,B,Pass,Average,Active
+STU2026232,Harsh Solanki,harsh.solanki232@student.edu.in,7000000232,Mechanical Engineering,8,A,2025-26,2023-08-24,59,64,11,53,62,4,96,B,Pass,Average,Active
+STU2026233,Isha Mistry,isha.mistry233@student.edu.in,7000000233,Civil Engineering,8,C,2025-26,2025-12-01,73,79,18,61,83,10,33,B+,Pass,Average,Active
+STU2026234,Shreya Trivedi,shreya.trivedi234@student.edu.in,7000000234,Information Technology,1,B,2026-27,2026-05-07,66,79,22,57,71,7,48,B+,Pass,Average,Active
+STU2026235,Arjun Thakor,arjun.thakor235@student.edu.in,7000000235,Computer Engineering,4,C,2026-27,2023-02-25,66,76,13,63,85,10,30,B+,Pass,Average,Active
+STU2026236,Mihir Desai,mihir.desai236@student.edu.in,7000000236,Computer Engineering,1,B,2026-27,2025-03-24,85,78,30,48,73,7,86,B+,Pass,Average,Active
+STU2026237,Jinal Solanki,jinal.solanki237@student.edu.in,7000000237,Electrical Engineering,1,B,2026-27,2022-12-10,82,87,24,63,98,10,37,A,Pass,High,Active
+STU2026238,Varun Solanki,varun.solanki238@student.edu.in,7000000238,Civil Engineering,3,A,2026-27,2022-11-15,97,88,28,60,83,7,45,A,Pass,High,Active
+STU2026239,Rudra Modi,rudra.modi239@student.edu.in,7000000239,Information Technology,4,D,2026-27,2023-03-24,89,72,7,65,61,8,90,B+,Fail,Average,Active
+STU2026240,Pooja Trivedi,pooja.trivedi240@student.edu.in,7000000240,Electrical Engineering,5,A,2025-26,2026-05-08,55,75,24,51,87,5,34,B+,Pass,Average,Active
+STU2026241,Mihir Mistry,mihir.mistry241@student.edu.in,7000000241,Computer Engineering,6,A,2025-26,2022-11-29,70,81,17,64,85,3,86,A,Pass,High,Active
+STU2026242,Vraj Dave,vraj.dave242@student.edu.in,7000000242,Mechanical Engineering,7,C,2025-26,2021-12-25,93,97,29,68,100,2,97,A+,Pass,High,On Leave
+STU2026243,Vraj Prajapati,vraj.prajapati243@student.edu.in,7000000243,Civil Engineering,2,C,2026-27,2024-05-07,70,65,7,58,62,9,60,B,Fail,Average,Active
+STU2026244,Dhruv Thakor,dhruv.thakor244@student.edu.in,7000000244,Mechanical Engineering,1,B,2026-27,2023-11-19,92,59,2,57,60,3,40,C,Fail,Low,Active
+STU2026245,Aarav Pandya,aarav.pandya245@student.edu.in,7000000245,Electronics & Communication,1,B,2026-27,2024-01-07,90,68,22,46,63,10,46,B,Pass,Average,On Leave
+STU2026246,Aarav Trivedi,aarav.trivedi246@student.edu.in,7000000246,Electrical Engineering,3,B,2026-27,2023-11-02,73,66,24,42,55,1,86,B,Pass,Average,Active
+STU2026247,Simran Sharma,simran.sharma247@student.edu.in,7000000247,Electronics & Communication,7,B,2025-26,2026-01-25,100,46,5,41,36,5,38,D,Fail,Low,Active
+STU2026248,Krisha Bhatt,krisha.bhatt248@student.edu.in,7000000248,Computer Engineering,4,B,2026-27,2022-05-21,83,91,27,64,85,6,50,A+,Pass,High,Active
+STU2026249,Ananya Modi,ananya.modi249@student.edu.in,7000000249,Electrical Engineering,6,B,2025-26,2023-10-31,66,95,25,70,90,1,43,A+,Pass,High,On Leave
+STU2026250,Neel Prajapati,neel.prajapati250@student.edu.in,7000000250,Electronics & Communication,1,B,2026-27,2025-07-02,73,74,19,55,82,9,98,B+,Pass,Average,Active
+STU2026251,Manav Rathod,manav.rathod251@student.edu.in,7000000251,Information Technology,3,B,2026-27,2023-09-17,71,55,10,45,60,7,43,C,Pass,Low,Active
+STU2026252,Palak Sanghvi,palak.sanghvi252@student.edu.in,7000000252,Electrical Engineering,6,D,2025-26,2025-06-14,85,28,28,0,16,2,61,F,Fail,Low,Active
+STU2026253,Aditi Mistry,aditi.mistry253@student.edu.in,7000000253,Mechanical Engineering,7,B,2025-26,2021-08-28,63,75,5,70,80,3,58,B+,Fail,Average,Active
+STU2026254,Varun Joshi,varun.joshi254@student.edu.in,7000000254,Computer Engineering,6,B,2025-26,2024-08-07,63,55,9,46,55,6,84,C,Fail,Low,Active
+STU2026255,Kavya Chauhan,kavya.chauhan255@student.edu.in,7000000255,Information Technology,4,B,2026-27,2024-02-24,81,50,23,27,44,2,50,C,Pass,Low,Active
+STU2026256,Ved Parmar,ved.parmar256@student.edu.in,7000000256,Electronics & Communication,1,B,2026-27,2023-04-19,51,60,20,40,50,2,59,B,Pass,Average,Active
+STU2026257,Zara Patel,zara.patel257@student.edu.in,7000000257,Computer Engineering,3,C,2026-27,2025-08-15,66,32,20,12,30,9,94,F,Fail,Low,Active
+STU2026258,Chirag Chauhan,chirag.chauhan258@student.edu.in,7000000258,Mechanical Engineering,1,A,2026-27,2024-08-03,67,90,20,70,86,3,63,A+,Pass,High,On Leave
+STU2026259,Dev Desai,dev.desai259@student.edu.in,7000000259,Civil Engineering,2,B,2026-27,2023-02-04,67,30,30,0,30,9,46,F,Fail,Low,Active
+STU2026260,Moksh Mehta,moksh.mehta260@student.edu.in,7000000260,Electronics & Communication,2,D,2026-27,2023-12-06,96,22,22,0,33,5,89,F,Fail,Low,Active
+STU2026261,Nirav Trivedi,nirav.trivedi261@student.edu.in,7000000261,Electronics & Communication,2,A,2026-27,2022-08-13,93,27,10,17,22,9,39,F,Fail,Low,Active
+STU2026262,Jinal Sanghvi,jinal.sanghvi262@student.edu.in,7000000262,Electrical Engineering,1,C,2026-27,2023-12-04,91,92,22,70,90,3,82,A+,Pass,High,On Leave
+STU2026263,Pooja Desai,pooja.desai263@student.edu.in,7000000263,Information Technology,8,C,2025-26,2022-03-21,54,83,21,62,82,1,71,A,Pass,High,Active
+STU2026264,Harsh Thakor,harsh.thakor264@student.edu.in,7000000264,Computer Engineering,3,B,2026-27,2024-02-29,68,89,26,63,94,5,93,A,Pass,High,Active
+STU2026265,Mihir Prajapati,mihir.prajapati265@student.edu.in,7000000265,Civil Engineering,3,A,2026-27,2025-04-20,51,42,10,32,53,6,77,D,Pass,Low,On Leave
+STU2026266,Ved Chauhan,ved.chauhan266@student.edu.in,7000000266,Electrical Engineering,1,C,2026-27,2022-05-13,83,71,22,49,77,10,45,B+,Pass,Average,On Leave
+STU2026267,Jinal Desai,jinal.desai267@student.edu.in,7000000267,Electronics & Communication,8,A,2025-26,2025-03-22,74,60,27,33,67,1,88,B,Pass,Average,Active
+STU2026268,Diya Solanki,diya.solanki268@student.edu.in,7000000268,Electrical Engineering,3,D,2026-27,2025-05-19,82,36,11,25,32,9,53,F,Fail,Low,Active
+STU2026269,Moksh Rajput,moksh.rajput269@student.edu.in,7000000269,Electrical Engineering,3,D,2026-27,2026-01-03,53,53,22,31,57,3,75,C,Pass,Low,Active
+STU2026270,Zara Trivedi,zara.trivedi270@student.edu.in,7000000270,Computer Engineering,3,A,2026-27,2023-10-06,79,77,17,60,74,1,98,B+,Pass,Average,Active
+STU2026271,Karan Verma,karan.verma271@student.edu.in,7000000271,Information Technology,2,C,2026-27,2026-04-06,96,94,28,66,100,3,79,A+,Pass,High,Active
+STU2026272,Nirav Bhatt,nirav.bhatt272@student.edu.in,7000000272,Electrical Engineering,1,A,2026-27,2025-07-02,90,61,8,53,57,6,66,B,Fail,Average,Active
+STU2026273,Dev Kapadia,dev.kapadia273@student.edu.in,7000000273,Computer Engineering,1,D,2026-27,2021-10-09,68,74,25,49,82,7,87,B+,Pass,Average,Active
+STU2026274,Rohan Prajapati,rohan.prajapati274@student.edu.in,7000000274,Civil Engineering,7,C,2025-26,2026-02-24,91,73,23,50,67,5,42,B+,Pass,Average,Active
+STU2026275,Nirav Gandhi,nirav.gandhi275@student.edu.in,7000000275,Mechanical Engineering,7,A,2025-26,2022-03-18,59,77,15,62,66,4,52,B+,Pass,Average,Active
+STU2026276,Dev Trivedi,dev.trivedi276@student.edu.in,7000000276,Mechanical Engineering,7,C,2025-26,2023-09-05,92,72,10,62,75,5,95,B+,Pass,Average,Active
+STU2026277,Meet Vyas,meet.vyas277@student.edu.in,7000000277,Computer Engineering,1,B,2026-27,2026-03-10,53,57,14,43,67,6,74,C,Pass,Low,On Leave
+STU2026278,Karan Parmar,karan.parmar278@student.edu.in,7000000278,Computer Engineering,3,D,2026-27,2025-01-03,56,45,2,43,48,9,96,D,Fail,Low,On Leave
+STU2026279,Palak Gohil,palak.gohil279@student.edu.in,7000000279,Civil Engineering,5,A,2025-26,2026-03-06,53,49,24,25,50,3,64,D,Pass,Low,Active
+STU2026280,Het Bhatt,het.bhatt280@student.edu.in,7000000280,Civil Engineering,7,A,2025-26,2025-09-24,99,64,13,51,68,3,100,B,Pass,Average,Active
+STU2026281,Nidhi Thakor,nidhi.thakor281@student.edu.in,7000000281,Information Technology,5,C,2025-26,2024-03-07,90,94,26,68,90,3,54,A+,Pass,High,Active
+STU2026282,Harsh Pandya,harsh.pandya282@student.edu.in,7000000282,Civil Engineering,6,A,2025-26,2025-04-28,50,74,17,57,80,3,87,B+,Pass,Average,Active
+STU2026283,Dev Pandya,dev.pandya283@student.edu.in,7000000283,Mechanical Engineering,6,A,2025-26,2021-09-04,92,93,23,70,86,10,42,A+,Pass,High,Active
+STU2026284,Tanya Joshi,tanya.joshi284@student.edu.in,7000000284,Information Technology,4,B,2026-27,2025-03-16,98,64,6,58,67,7,81,B,Fail,Average,Active
+STU2026285,Moksh Joshi,moksh.joshi285@student.edu.in,7000000285,Civil Engineering,5,D,2025-26,2024-09-01,63,67,29,38,64,4,52,B,Pass,Average,Active
+STU2026286,Het Rathod,het.rathod286@student.edu.in,7000000286,Mechanical Engineering,8,C,2025-26,2023-11-06,56,56,17,39,68,9,45,C,Pass,Low,Active
+STU2026287,Manav Patel,manav.patel287@student.edu.in,7000000287,Civil Engineering,5,C,2025-26,2026-05-13,55,61,20,41,72,5,56,B,Pass,Average,Active
+STU2026288,Pooja Shah,pooja.shah288@student.edu.in,7000000288,Mechanical Engineering,7,B,2025-26,2021-08-29,77,70,3,67,79,9,86,B+,Fail,Average,Active
+STU2026289,Tanya Sharma,tanya.sharma289@student.edu.in,7000000289,Information Technology,5,D,2025-26,2025-06-26,72,56,15,41,66,5,77,C,Pass,Low,Active
+STU2026290,Riya Kapadia,riya.kapadia290@student.edu.in,7000000290,Mechanical Engineering,1,A,2026-27,2023-05-20,93,38,25,13,45,2,94,F,Fail,Low,On Leave
+STU2026291,Akshay Pandya,akshay.pandya291@student.edu.in,7000000291,Computer Engineering,5,B,2025-26,2022-05-18,52,45,1,44,51,9,53,D,Fail,Low,On Leave
+STU2026292,Aarav Prajapati,aarav.prajapati292@student.edu.in,7000000292,Civil Engineering,8,B,2025-26,2022-03-02,78,83,16,67,77,6,99,A,Pass,High,Active
+STU2026293,Tanvi Mehta,tanvi.mehta293@student.edu.in,7000000293,Electrical Engineering,1,C,2026-27,2024-05-11,61,76,14,62,71,10,59,B+,Pass,Average,On Leave
+STU2026294,Het Sharma,het.sharma294@student.edu.in,7000000294,Computer Engineering,7,A,2025-26,2026-05-07,92,72,18,54,81,5,77,B+,Pass,Average,Active
+STU2026295,Khushi Makwana,khushi.makwana295@student.edu.in,7000000295,Civil Engineering,1,A,2026-27,2024-02-08,51,21,11,10,29,6,35,F,Fail,Low,On Leave
+STU2026296,Mihir Parmar,mihir.parmar296@student.edu.in,7000000296,Information Technology,2,C,2026-27,2024-10-28,78,78,27,51,86,1,56,B+,Pass,Average,Active
+STU2026297,Khushi Gupta,khushi.gupta297@student.edu.in,7000000297,Civil Engineering,5,B,2025-26,2023-12-30,85,74,27,47,79,2,86,B+,Pass,Average,Active
+STU2026298,Tanvi Modi,tanvi.modi298@student.edu.in,7000000298,Civil Engineering,4,A,2026-27,2026-03-30,70,46,17,29,56,4,60,D,Pass,Low,On Leave
+STU2026299,Krisha Thakor,krisha.thakor299@student.edu.in,7000000299,Civil Engineering,1,C,2026-27,2025-08-10,98,58,4,54,60,8,39,C,Fail,Low,Active
+STU2026300,Tanvi Desai,tanvi.desai300@student.edu.in,7000000300,Information Technology,5,A,2025-26,2022-06-12,74,69,8,61,75,5,46,B,Fail,Average,Active
