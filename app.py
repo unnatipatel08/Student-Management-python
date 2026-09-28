@@ -692,3 +692,37 @@ elif menu == "🗑️ Delete Student":
             st.error(
                 "❌ Student ID not found."
             )
+# BEYOND SYLLABUS - PYTHON DECORATOR
+
+def get_recent_activities(limit=10):
+    try:
+        with open("student_management.log", "r") as file:
+            lines = file.readlines()
+
+        return lines[-limit:]
+
+    except FileNotFoundError:
+        return []
+
+
+def log_activity(activity):
+    logging.info(f"Activity: {activity}")
+
+    st.subheader("🚀 Beyond Syllabus - Activity Logging")
+
+activities = get_recent_activities(10)
+
+if activities:
+
+    st.success("✅ Activity Logging is working")
+
+    for activity in reversed(activities):
+        st.write("📝", activity.strip())
+
+else:
+
+    st.info("No activities recorded yet.")
+
+st.caption(
+    "Beyond Syllabus: Python Decorator and Activity Logging"
+)
