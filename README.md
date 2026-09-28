@@ -166,12 +166,14 @@ As a Beyond Syllabus enhancement, the project incorporates Python Decorators and
 
 Overall, the project demonstrates practical applications of Python for Data Science along with interactive dashboard development and student performance management.
 
+
+
+💻 Important Code Implementation
+1. Python Decorator — Beyond Syllabus
+
+   
 ```text
-student_management.log
 
-
-
-```python
 def activity_logger(func):
 
     @wraps(func)
@@ -184,5 +186,7 @@ def activity_logger(func):
         logging.info(f"Activity completed: {func.__name__}")
 
         return result
+
+    return wrapper
 
     return wrapper
