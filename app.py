@@ -589,7 +589,8 @@ elif menu == "✏️ Update Student":
                 df.loc[index, "Student_ID"] = new_student_id
                 df.loc[index, "Name"] = new_name
                 df.loc[index, "Email"] = new_email
-                df.loc[index, "Phone"] = new_phone
+                df["Phone"] = df["Phone"].astype("object")
+                df.loc[index, "Phone"] = str(new_phone)
                 df.loc[index, "Branch"] = new_branch
                 df.loc[index, "Semester"] = new_semester
                 df.loc[index, "Division"] = new_division
